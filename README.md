@@ -1,7 +1,7 @@
 # 9-11-SMS-Bomber
 <h1 align="center">
   <br>
-  !preview (https://user-images.githubusercontent.com/82213937/114216035-5a768d00-9934-11eb-9844-120a38a51fe2.png)
+  !preview(https://user-images.githubusercontent.com/82213937/114216035-5a768d00-9934-11eb-9844-120a38a51fe2.png)
 
   <br>
   9/11 SMS Bomber v2.0b
