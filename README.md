@@ -1,7 +1,8 @@
 # 9-11-SMS-Bomber
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  !preview (https://user-images.githubusercontent.com/82213937/114216035-5a768d00-9934-11eb-9844-120a38a51fe2.png)
+
   <br>
   9/11 SMS Bomber v2.0b
   <br>
